@@ -1,2 +1,2 @@
 # flu
-Influenza builds
+Influenza Nextstrain builds
