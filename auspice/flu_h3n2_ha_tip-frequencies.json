@@ -1,0 +1,3847 @@
+{
+  "A/Australian_Capital_Territory/2518816558/2025_jul": {
+    "frequencies": [
+      0.000207,
+      0.006527,
+      0.001366
+    ]
+  },
+  "A/Ayutthaya/682/2025_feb": {
+    "frequencies": [
+      0.005611,
+      0.000195,
+      2.7e-05
+    ]
+  },
+  "A/Bangkok/141/2025_feb": {
+    "frequencies": [
+      0.005362,
+      0.000198,
+      2.9e-05
+    ]
+  },
+  "A/Bangkok/159/2025_apr": {
+    "frequencies": [
+      0.001085,
+      0.00047,
+      0.000123
+    ]
+  },
+  "A/Bangkok/399/2025_feb": {
+    "frequencies": [
+      0.004672,
+      0.000208,
+      3.2e-05
+    ]
+  },
+  "A/Bangkok/416/2025_mar_Original": {
+    "frequencies": [
+      0.003537,
+      0.000228,
+      4e-05
+    ]
+  },
+  "A/Bhutan/00424/2025_may_Original": {
+    "frequencies": [
+      0.000614,
+      0.00194,
+      0.000332
+    ]
+  },
+  "A/Bhutan/00730/2025_may_Original": {
+    "frequencies": [
+      0.000521,
+      0.002933,
+      0.000438
+    ]
+  },
+  "A/Bhutan/02056/2025_apr": {
+    "frequencies": [
+      0.000832,
+      0.000815,
+      0.00019
+    ]
+  },
+  "A/Bhutan/GAS07/2025_mar": {
+    "frequencies": [
+      0.002267,
+      0.00027,
+      5.7e-05
+    ]
+  },
+  "A/Bhutan/SGK09/2025_jun_Original": {
+    "frequencies": [
+      0.000422,
+      0.004378,
+      0.000601
+    ]
+  },
+  "A/Brisbane/65/2025_mar_Original": {
+    "frequencies": [
+      0.00388,
+      0.000221,
+      3.7e-05
+    ]
+  },
+  "A/Brisbane/72/2025_mar_Original": {
+    "frequencies": [
+      0.001411,
+      0.000352,
+      8.8e-05
+    ]
+  },
+  "A/Cairns/28/2025_mar": {
+    "frequencies": [
+      0.001456,
+      0.000344,
+      8.5e-05
+    ]
+  },
+  "A/Cambodia/IKPT250054/2025_may_Original": {
+    "frequencies": [
+      0.000687,
+      0.001413,
+      0.000272
+    ]
+  },
+  "A/Cambodia/_IAHC250174/2025_may_Original": {
+    "frequencies": [
+      0.00047,
+      0.003637,
+      0.000514
+    ]
+  },
+  "A/Cambodia/_IBTB250007/2025_feb_Original": {
+    "frequencies": [
+      0.007307,
+      0.000177,
+      2.2e-05
+    ]
+  },
+  "A/Cambodia/_IKPT250001/2025_jan_Original": {
+    "frequencies": [
+      0.021559,
+      8.1e-05,
+      4e-06
+    ]
+  },
+  "A/Cambodia/_IKPT250060/2025_may_Original": {
+    "frequencies": [
+      0.000605,
+      0.002027,
+      0.000342
+    ]
+  },
+  "A/Cambodia/_IMDK250004/2025_mar_Original": {
+    "frequencies": [
+      0.003082,
+      0.00024,
+      4.4e-05
+    ]
+  },
+  "A/Cambodia/_ISVR250039/2025_jun_Original": {
+    "frequencies": [
+      0.000422,
+      0.004378,
+      0.000601
+    ]
+  },
+  "A/Cambodia/j02053506/2025_jan": {
+    "frequencies": [
+      0.021559,
+      8.1e-05,
+      4e-06
+    ]
+  },
+  "A/Cambodia/j02053511/2025_jan": {
+    "frequencies": [
+      0.021258,
+      8.5e-05,
+      4e-06
+    ]
+  },
+  "A/Cambodia/j03123510/2025_feb": {
+    "frequencies": [
+      0.007001,
+      0.00018,
+      2.3e-05
+    ]
+  },
+  "A/Cambodia/j05273526/2025_may": {
+    "frequencies": [
+      0.000687,
+      0.001413,
+      0.000272
+    ]
+  },
+  "A/Cambodia/j05273535/2025_may": {
+    "frequencies": [
+      0.000605,
+      0.002027,
+      0.000342
+    ]
+  },
+  "A/Cambodia/j08043511/2025_may": {
+    "frequencies": [
+      0.00047,
+      0.003637,
+      0.000514
+    ]
+  },
+  "A/Cambodia/j08043520/2025_jun": {
+    "frequencies": [
+      0.000422,
+      0.004378,
+      0.000601
+    ]
+  },
+  "A/Canberra/350/2025_jun": {
+    "frequencies": [
+      0.000392,
+      0.004867,
+      0.000665
+    ]
+  },
+  "A/Canberra/353/2025_may_Original": {
+    "frequencies": [
+      0.000453,
+      0.003882,
+      0.000542
+    ]
+  },
+  "A/Canberra/364/2025_jun": {
+    "frequencies": [
+      0.000323,
+      0.005935,
+      0.000849
+    ]
+  },
+  "A/Canberra/380/2025_jun": {
+    "frequencies": [
+      0.000392,
+      0.004867,
+      0.000665
+    ]
+  },
+  "A/Canberra/391/2025_jun": {
+    "frequencies": [
+      0.000304,
+      0.006181,
+      0.000912
+    ]
+  },
+  "A/Canberra/439/2025_jul": {
+    "frequencies": [
+      0.000207,
+      0.006527,
+      0.001366
+    ]
+  },
+  "A/Canberra/447/2025_jul": {
+    "frequencies": [
+      0.000202,
+      0.006484,
+      0.001395
+    ]
+  },
+  "A/Canberra/459/2025_jul_LR": {
+    "frequencies": [
+      0.000189,
+      0.006321,
+      0.001487
+    ]
+  },
+  "A/Darwin/1045/2025_jul": {
+    "frequencies": [
+      0.000216,
+      0.006593,
+      0.001309
+    ]
+  },
+  "A/Darwin/1065/2025_jul": {
+    "frequencies": [
+      0.000172,
+      0.006024,
+      0.001615
+    ]
+  },
+  "A/Darwin/1065A/2025_jul": {
+    "frequencies": [
+      0.000172,
+      0.006024,
+      0.001615
+    ]
+  },
+  "A/Darwin/1067/2025_jul": {
+    "frequencies": [
+      0.000172,
+      0.006024,
+      0.001615
+    ]
+  },
+  "A/Darwin/1227/2025_jul": {
+    "frequencies": [
+      0.000198,
+      0.006436,
+      0.001425
+    ]
+  },
+  "A/Darwin/1319/2025_jul_LR": {
+    "frequencies": [
+      0.000146,
+      0.005333,
+      0.001857
+    ]
+  },
+  "A/Darwin/1345/2025_jul_LR": {
+    "frequencies": [
+      0.000132,
+      0.00487,
+      0.002007
+    ]
+  },
+  "A/Darwin/1369/2025_jul_LR": {
+    "frequencies": [
+      0.000132,
+      0.00487,
+      0.002007
+    ]
+  },
+  "A/Darwin/1415/2025_aug_LR": {
+    "frequencies": [
+      0.000108,
+      0.003886,
+      0.002329
+    ]
+  },
+  "A/Darwin/1454/2025_aug_LR": {
+    "frequencies": [
+      8.8e-05,
+      0.002937,
+      0.002684
+    ]
+  },
+  "A/Darwin/1461/2025_aug_Original": {
+    "frequencies": [
+      7.4e-05,
+      0.002308,
+      0.002971
+    ]
+  },
+  "A/Darwin/1468/2025_aug_LR": {
+    "frequencies": [
+      8.8e-05,
+      0.002937,
+      0.002684
+    ]
+  },
+  "A/Darwin/1495/2025_aug_Original": {
+    "frequencies": [
+      7e-05,
+      0.00212,
+      0.003071
+    ]
+  },
+  "A/Darwin/1496/2025_aug_LR": {
+    "frequencies": [
+      7.2e-05,
+      0.002213,
+      0.003021
+    ]
+  },
+  "A/Darwin/1497/2025_aug_LR": {
+    "frequencies": [
+      7e-05,
+      0.00212,
+      0.003071
+    ]
+  },
+  "A/Darwin/1499/2025_aug_LR": {
+    "frequencies": [
+      6.7e-05,
+      0.001943,
+      0.003173
+    ]
+  },
+  "A/Darwin/1506/2025_aug_LR": {
+    "frequencies": [
+      6.7e-05,
+      0.001943,
+      0.003173
+    ]
+  },
+  "A/Darwin/1514/2025_aug_LR": {
+    "frequencies": [
+      6.5e-05,
+      0.001858,
+      0.003225
+    ]
+  },
+  "A/Darwin/1515/2025_aug": {
+    "frequencies": [
+      6.5e-05,
+      0.001858,
+      0.003225
+    ]
+  },
+  "A/Darwin/279/2025_mar_QMC": {
+    "frequencies": [
+      0.004258,
+      0.000214,
+      3.4e-05
+    ]
+  },
+  "A/Darwin/279/2025_q_mar": {
+    "frequencies": [
+      0.004258,
+      0.000214,
+      3.4e-05
+    ]
+  },
+  "A/Darwin/281/2025_mar_Original": {
+    "frequencies": [
+      0.004258,
+      0.000214,
+      3.4e-05
+    ]
+  },
+  "A/Darwin/353/2025_mar_Original": {
+    "frequencies": [
+      0.002578,
+      0.000256,
+      5.1e-05
+    ]
+  },
+  "A/Darwin/354/2025_mar": {
+    "frequencies": [
+      0.002578,
+      0.000256,
+      5.1e-05
+    ]
+  },
+  "A/Darwin/360/2025_mar": {
+    "frequencies": [
+      0.003082,
+      0.00024,
+      4.4e-05
+    ]
+  },
+  "A/Darwin/380/2025_mar": {
+    "frequencies": [
+      0.002175,
+      0.000274,
+      5.9e-05
+    ]
+  },
+  "A/Darwin/389/2025_mar": {
+    "frequencies": [
+      0.002175,
+      0.000274,
+      5.9e-05
+    ]
+  },
+  "A/Darwin/391/2025_mar": {
+    "frequencies": [
+      0.002006,
+      0.000285,
+      6.3e-05
+    ]
+  },
+  "A/Darwin/393/2025_mar": {
+    "frequencies": [
+      0.002088,
+      0.000279,
+      6.1e-05
+    ]
+  },
+  "A/Darwin/420/2025_mar": {
+    "frequencies": [
+      0.001929,
+      0.00029,
+      6.5e-05
+    ]
+  },
+  "A/Darwin/430/2025_mar": {
+    "frequencies": [
+      0.001724,
+      0.000308,
+      7.2e-05
+    ]
+  },
+  "A/Darwin/449/2025_mar": {
+    "frequencies": [
+      0.001607,
+      0.000321,
+      7.7e-05
+    ]
+  },
+  "A/Darwin/477/2025_mar": {
+    "frequencies": [
+      0.001369,
+      0.000361,
+      9.1e-05
+    ]
+  },
+  "A/Darwin/498/2025_apr": {
+    "frequencies": [
+      0.001293,
+      0.000381,
+      9.8e-05
+    ]
+  },
+  "A/Darwin/510/2025_apr": {
+    "frequencies": [
+      0.001137,
+      0.00044,
+      0.000115
+    ]
+  },
+  "A/Darwin/511/2025_apr": {
+    "frequencies": [
+      0.001137,
+      0.00044,
+      0.000115
+    ]
+  },
+  "A/Darwin/526/2025_apr": {
+    "frequencies": [
+      0.001194,
+      0.000414,
+      0.000108
+    ]
+  },
+  "A/Darwin/529/2025_apr": {
+    "frequencies": [
+      0.00111,
+      0.000455,
+      0.000119
+    ]
+  },
+  "A/Darwin/538/2025_apr": {
+    "frequencies": [
+      0.00111,
+      0.000455,
+      0.000119
+    ]
+  },
+  "A/Darwin/574A/2025_apr": {
+    "frequencies": [
+      0.000997,
+      0.000541,
+      0.000139
+    ]
+  },
+  "A/Darwin/590/2025_apr": {
+    "frequencies": [
+      0.001039,
+      0.000503,
+      0.000131
+    ]
+  },
+  "A/Darwin/612/2025_apr": {
+    "frequencies": [
+      0.000978,
+      0.000561,
+      0.000144
+    ]
+  },
+  "A/Darwin/625/2025_apr": {
+    "frequencies": [
+      0.000959,
+      0.000583,
+      0.000148
+    ]
+  },
+  "A/Darwin/630A/2025_apr": {
+    "frequencies": [
+      0.000891,
+      0.000686,
+      0.000168
+    ]
+  },
+  "A/Darwin/632/2025_apr": {
+    "frequencies": [
+      0.000907,
+      0.000658,
+      0.000163
+    ]
+  },
+  "A/Darwin/643/2025_apr": {
+    "frequencies": [
+      0.000891,
+      0.000686,
+      0.000168
+    ]
+  },
+  "A/Darwin/677/2025_apr": {
+    "frequencies": [
+      0.000907,
+      0.000658,
+      0.000163
+    ]
+  },
+  "A/Darwin/695/2025_apr": {
+    "frequencies": [
+      0.000907,
+      0.000658,
+      0.000163
+    ]
+  },
+  "A/Darwin/708/2025_apr_QMC": {
+    "frequencies": [
+      0.000805,
+      0.000891,
+      0.000202
+    ]
+  },
+  "A/Darwin/708/2025_q_apr": {
+    "frequencies": [
+      0.000805,
+      0.000891,
+      0.000202
+    ]
+  },
+  "A/Darwin/797/2025_may": {
+    "frequencies": [
+      0.000665,
+      0.001549,
+      0.000288
+    ]
+  },
+  "A/Darwin/884/2025_jun": {
+    "frequencies": [
+      0.000392,
+      0.004867,
+      0.000665
+    ]
+  },
+  "A/Darwin/889/2025_jun": {
+    "frequencies": [
+      0.000377,
+      0.005103,
+      0.000699
+    ]
+  },
+  "A/Darwin/917/2025_jun_Original": {
+    "frequencies": [
+      0.000349,
+      0.005546,
+      0.000771
+    ]
+  },
+  "A/Darwin/953/2025_jun": {
+    "frequencies": [
+      0.000304,
+      0.006181,
+      0.000912
+    ]
+  },
+  "A/Darwin/956/2025_jun_LR": {
+    "frequencies": [
+      0.000298,
+      0.006253,
+      0.000933
+    ]
+  },
+  "A/Darwin/968/2025_jun": {
+    "frequencies": [
+      0.00028,
+      0.006434,
+      0.001001
+    ]
+  },
+  "A/Darwin/985/2025_jul": {
+    "frequencies": [
+      0.000236,
+      0.006646,
+      0.001199
+    ]
+  },
+  "A/Darwin/986/2025_jul": {
+    "frequencies": [
+      0.000236,
+      0.006646,
+      0.001199
+    ]
+  },
+  "A/Fiji/13/2025_jan": {
+    "frequencies": [
+      0.021419,
+      8.3e-05,
+      4e-06
+    ]
+  },
+  "A/Fiji/8/2025_mar": {
+    "frequencies": [
+      0.001553,
+      0.000328,
+      8e-05
+    ]
+  },
+  "A/India/BHO_NIV25-827/2025_feb": {
+    "frequencies": [
+      0.008282,
+      0.000169,
+      2e-05
+    ]
+  },
+  "A/India/PUN_NIV25-279/2025_feb": {
+    "frequencies": [
+      0.010072,
+      0.000155,
+      1.6e-05
+    ]
+  },
+  "A/India/PUN_NIV25-337/2025_feb": {
+    "frequencies": [
+      0.007623,
+      0.000174,
+      2.1e-05
+    ]
+  },
+  "A/India/PUN_NIV25-694/2025_apr": {
+    "frequencies": [
+      0.00111,
+      0.000455,
+      0.000119
+    ]
+  },
+  "A/India/PUN_NIVCOV25231/2025_feb": {
+    "frequencies": [
+      0.012835,
+      0.000137,
+      1.2e-05
+    ]
+  },
+  "A/India/PUN_NIVCOV2572/2025_jan": {
+    "frequencies": [
+      0.019612,
+      9.8e-05,
+      6e-06
+    ]
+  },
+  "A/India/PUN_NIVCOV25723/2025_apr": {
+    "frequencies": [
+      0.000846,
+      0.00078,
+      0.000184
+    ]
+  },
+  "A/NEPAL/N042/2025_e_F_jan": {
+    "frequencies": [
+      0.020659,
+      9e-05,
+      5e-06
+    ]
+  },
+  "A/Nakhonphanom/66/2025_jan": {
+    "frequencies": [
+      0.015285,
+      0.000123,
+      1e-05
+    ]
+  },
+  "A/Nepal/N305/2025_feb": {
+    "frequencies": [
+      0.004892,
+      0.000205,
+      3.1e-05
+    ]
+  },
+  "A/Nepal/S2163/2025_jul": {
+    "frequencies": [
+      0.000123,
+      0.004505,
+      0.002124
+    ]
+  },
+  "A/Nepal/S854/2025_mar": {
+    "frequencies": [
+      0.003082,
+      0.00024,
+      4.4e-05
+    ]
+  },
+  "A/Nepal/S859/2025_mar": {
+    "frequencies": [
+      0.002694,
+      0.000252,
+      4.9e-05
+    ]
+  },
+  "A/Nepal/S860/2025_mar": {
+    "frequencies": [
+      0.002946,
+      0.000244,
+      4.6e-05
+    ]
+  },
+  "A/Nepal/S862/2025_mar": {
+    "frequencies": [
+      0.003082,
+      0.00024,
+      4.4e-05
+    ]
+  },
+  "A/Nepal/S870/2025_mar": {
+    "frequencies": [
+      0.002946,
+      0.000244,
+      4.6e-05
+    ]
+  },
+  "A/Netherlands/00024/2025_mar_Egg": {
+    "frequencies": [
+      0.002088,
+      0.000279,
+      6.1e-05
+    ]
+  },
+  "A/Netherlands/00077/2025_mar_Egg": {
+    "frequencies": [
+      0.002088,
+      0.000279,
+      6.1e-05
+    ]
+  },
+  "A/Netherlands/00156/2025_mar_Egg": {
+    "frequencies": [
+      0.002088,
+      0.000279,
+      6.1e-05
+    ]
+  },
+  "A/Netherlands/00401/2025_mar_Egg": {
+    "frequencies": [
+      0.002088,
+      0.000279,
+      6.1e-05
+    ]
+  },
+  "A/Netherlands/00520/2025_e_feb": {
+    "frequencies": [
+      0.009699,
+      0.000158,
+      1.7e-05
+    ]
+  },
+  "A/New_Caledonia/100/2025_may": {
+    "frequencies": [
+      0.000453,
+      0.003882,
+      0.000542
+    ]
+  },
+  "A/New_Caledonia/102/2025_may": {
+    "frequencies": [
+      0.000445,
+      0.004006,
+      0.000556
+    ]
+  },
+  "A/New_Caledonia/103/2025_may": {
+    "frequencies": [
+      0.000445,
+      0.004006,
+      0.000556
+    ]
+  },
+  "A/New_Caledonia/104/2025_may": {
+    "frequencies": [
+      0.000437,
+      0.00413,
+      0.00057
+    ]
+  },
+  "A/New_Caledonia/105/2025_jun": {
+    "frequencies": [
+      0.000414,
+      0.004502,
+      0.000616
+    ]
+  },
+  "A/New_Caledonia/107/2025_jun": {
+    "frequencies": [
+      0.000363,
+      0.00533,
+      0.000734
+    ]
+  },
+  "A/New_Caledonia/108/2025_jun": {
+    "frequencies": [
+      0.000343,
+      0.005649,
+      0.00079
+    ]
+  },
+  "A/New_Caledonia/109/2025_jun": {
+    "frequencies": [
+      0.000343,
+      0.005649,
+      0.00079
+    ]
+  },
+  "A/New_Caledonia/111/2025_jun": {
+    "frequencies": [
+      0.00031,
+      0.006104,
+      0.00089
+    ]
+  },
+  "A/New_Caledonia/112/2025_jun": {
+    "frequencies": [
+      0.000292,
+      0.006319,
+      0.000955
+    ]
+  },
+  "A/New_Caledonia/113/2025_jun": {
+    "frequencies": [
+      0.000269,
+      0.006526,
+      0.001048
+    ]
+  },
+  "A/New_Caledonia/114/2025_jun": {
+    "frequencies": [
+      0.000257,
+      0.006592,
+      0.001096
+    ]
+  },
+  "A/New_Caledonia/59/2025_mar": {
+    "frequencies": [
+      0.003705,
+      0.000225,
+      3.8e-05
+    ]
+  },
+  "A/New_Caledonia/61/2025_mar": {
+    "frequencies": [
+      0.002088,
+      0.000279,
+      6.1e-05
+    ]
+  },
+  "A/New_Caledonia/62/2025_mar": {
+    "frequencies": [
+      0.001553,
+      0.000328,
+      8e-05
+    ]
+  },
+  "A/New_Caledonia/63/2025_mar": {
+    "frequencies": [
+      0.001553,
+      0.000328,
+      8e-05
+    ]
+  },
+  "A/New_Caledonia/67/2025_apr": {
+    "frequencies": [
+      0.001258,
+      0.000391,
+      0.000101
+    ]
+  },
+  "A/New_Caledonia/68/2025_apr": {
+    "frequencies": [
+      0.00111,
+      0.000455,
+      0.000119
+    ]
+  },
+  "A/New_Caledonia/69/2025_apr": {
+    "frequencies": [
+      0.001085,
+      0.00047,
+      0.000123
+    ]
+  },
+  "A/New_Caledonia/70/2025_apr": {
+    "frequencies": [
+      0.001062,
+      0.000486,
+      0.000127
+    ]
+  },
+  "A/New_Caledonia/71/2025_apr": {
+    "frequencies": [
+      0.001018,
+      0.000521,
+      0.000135
+    ]
+  },
+  "A/New_Caledonia/72/2025_apr": {
+    "frequencies": [
+      0.000959,
+      0.000583,
+      0.000148
+    ]
+  },
+  "A/New_Caledonia/75/2025_apr": {
+    "frequencies": [
+      0.000941,
+      0.000607,
+      0.000153
+    ]
+  },
+  "A/New_Caledonia/78/2025_apr": {
+    "frequencies": [
+      0.000767,
+      0.001021,
+      0.000221
+    ]
+  },
+  "A/New_Caledonia/79/2025_may": {
+    "frequencies": [
+      0.000697,
+      0.001349,
+      0.000264
+    ]
+  },
+  "A/New_Caledonia/80/2025_may": {
+    "frequencies": [
+      0.000665,
+      0.001549,
+      0.000288
+    ]
+  },
+  "A/New_Caledonia/81/2025_may": {
+    "frequencies": [
+      0.000634,
+      0.001775,
+      0.000314
+    ]
+  },
+  "A/New_Caledonia/82/2025_may": {
+    "frequencies": [
+      0.000634,
+      0.001775,
+      0.000314
+    ]
+  },
+  "A/New_Caledonia/83/2025_may": {
+    "frequencies": [
+      0.000605,
+      0.002027,
+      0.000342
+    ]
+  },
+  "A/New_Caledonia/84/2025_may": {
+    "frequencies": [
+      0.000605,
+      0.002027,
+      0.000342
+    ]
+  },
+  "A/New_Caledonia/85/2025_may": {
+    "frequencies": [
+      0.000585,
+      0.00221,
+      0.000361
+    ]
+  },
+  "A/New_Caledonia/86/2025_may": {
+    "frequencies": [
+      0.000576,
+      0.002305,
+      0.000372
+    ]
+  },
+  "A/New_Caledonia/87/2025_may": {
+    "frequencies": [
+      0.000576,
+      0.002305,
+      0.000372
+    ]
+  },
+  "A/New_Caledonia/89/2025_may": {
+    "frequencies": [
+      0.000566,
+      0.002404,
+      0.000382
+    ]
+  },
+  "A/New_Caledonia/90/2025_may": {
+    "frequencies": [
+      0.000566,
+      0.002404,
+      0.000382
+    ]
+  },
+  "A/New_Caledonia/91/2025_may": {
+    "frequencies": [
+      0.00053,
+      0.002823,
+      0.000426
+    ]
+  },
+  "A/New_Caledonia/92/2025_may": {
+    "frequencies": [
+      0.000504,
+      0.003161,
+      0.000462
+    ]
+  },
+  "A/New_Caledonia/94/2025_may": {
+    "frequencies": [
+      0.000504,
+      0.003161,
+      0.000462
+    ]
+  },
+  "A/New_Caledonia/96/2025_may": {
+    "frequencies": [
+      0.000478,
+      0.003516,
+      0.000501
+    ]
+  },
+  "A/New_Caledonia/97/2025_may": {
+    "frequencies": [
+      0.00047,
+      0.003637,
+      0.000514
+    ]
+  },
+  "A/New_Caledonia/98/2025_may": {
+    "frequencies": [
+      0.00047,
+      0.003637,
+      0.000514
+    ]
+  },
+  "A/New_Caledonia/99/2025_may": {
+    "frequencies": [
+      0.000462,
+      0.003759,
+      0.000528
+    ]
+  },
+  "A/New_South_Wales/2512215160/2025_may": {
+    "frequencies": [
+      0.000709,
+      0.001288,
+      0.000256
+    ]
+  },
+  "A/New_South_Wales/2525216121/2025_sep": {
+    "frequencies": [
+      3.8e-05,
+      0.000816,
+      0.004294
+    ]
+  },
+  "A/New_South_Wales/2525817216/2025_sep": {
+    "frequencies": [
+      3.2e-05,
+      0.000632,
+      0.004746
+    ]
+  },
+  "A/New_South_Wales/2526015582/2025_sep": {
+    "frequencies": [
+      3e-05,
+      0.000584,
+      0.004917
+    ]
+  },
+  "A/New_South_Wales/2526015584/2025_sep": {
+    "frequencies": [
+      3e-05,
+      0.000584,
+      0.004917
+    ]
+  },
+  "A/New_South_Wales/2527315758/2025_sep": {
+    "frequencies": [
+      2e-05,
+      0.000381,
+      0.006472
+    ]
+  },
+  "A/New_South_Wales/2527315759/2025_sep": {
+    "frequencies": [
+      2e-05,
+      0.000381,
+      0.006472
+    ]
+  },
+  "A/Papua_New_Guinea/34/2025_jun": {
+    "frequencies": [
+      0.000363,
+      0.00533,
+      0.000734
+    ]
+  },
+  "A/Papua_New_Guinea/34/2025_jun_Original": {
+    "frequencies": [
+      0.000363,
+      0.00533,
+      0.000734
+    ]
+  },
+  "A/Perth/24/2025_mar": {
+    "frequencies": [
+      0.00446,
+      0.000211,
+      3.3e-05
+    ]
+  },
+  "A/Perth/474/2025_may": {
+    "frequencies": [
+      0.000655,
+      0.001621,
+      0.000297
+    ]
+  },
+  "A/Perth/474A/2025_may": {
+    "frequencies": [
+      0.000655,
+      0.001621,
+      0.000297
+    ]
+  },
+  "A/Perth/520/2025_jul": {
+    "frequencies": [
+      0.000207,
+      0.006527,
+      0.001366
+    ]
+  },
+  "A/Queensland/2526516675/2025_sep": {
+    "frequencies": [
+      2.6e-05,
+      0.000486,
+      0.005406
+    ]
+  },
+  "A/Queensland/86/2025_aug_LR": {
+    "frequencies": [
+      0.0001,
+      0.00352,
+      0.002458
+    ]
+  },
+  "A/Queensland/IN001208/2025_mar": {
+    "frequencies": [
+      0.001663,
+      0.000314,
+      7.5e-05
+    ]
+  },
+  "A/Queensland/IN001250/2025_mar": {
+    "frequencies": [
+      0.00133,
+      0.000371,
+      9.4e-05
+    ]
+  },
+  "A/Queensland/IN001252/2025_mar": {
+    "frequencies": [
+      0.00133,
+      0.000371,
+      9.4e-05
+    ]
+  },
+  "A/Queensland/IN001253/2025_mar": {
+    "frequencies": [
+      0.00388,
+      0.000221,
+      3.7e-05
+    ]
+  },
+  "A/Queensland/IN001254/2025_mar": {
+    "frequencies": [
+      0.002578,
+      0.000256,
+      5.1e-05
+    ]
+  },
+  "A/Queensland/IN001266/2025_apr": {
+    "frequencies": [
+      0.001225,
+      0.000402,
+      0.000104
+    ]
+  },
+  "A/Queensland/IN001272/2025_apr": {
+    "frequencies": [
+      0.001225,
+      0.000402,
+      0.000104
+    ]
+  },
+  "A/Queensland/IN001285/2025_apr": {
+    "frequencies": [
+      0.001062,
+      0.000486,
+      0.000127
+    ]
+  },
+  "A/Queensland/IN001349/2025_apr": {
+    "frequencies": [
+      0.001194,
+      0.000414,
+      0.000108
+    ]
+  },
+  "A/Queensland/IN001458/2025_apr": {
+    "frequencies": [
+      0.000743,
+      0.00112,
+      0.000235
+    ]
+  },
+  "A/Queensland/IN001479/2025_apr": {
+    "frequencies": [
+      0.000731,
+      0.001173,
+      0.000242
+    ]
+  },
+  "A/Queensland/IN001495/2025_may": {
+    "frequencies": [
+      0.000676,
+      0.001479,
+      0.00028
+    ]
+  },
+  "A/Queensland/IN001591/2025_may": {
+    "frequencies": [
+      0.00053,
+      0.002823,
+      0.000426
+    ]
+  },
+  "A/Queensland/IN001631/2025_may": {
+    "frequencies": [
+      0.000453,
+      0.003882,
+      0.000542
+    ]
+  },
+  "A/Singapore/EN0145/2025_jun_Original": {
+    "frequencies": [
+      0.000363,
+      0.00533,
+      0.000734
+    ]
+  },
+  "A/Singapore/EN0157/2025_jun_Original": {
+    "frequencies": [
+      0.000323,
+      0.005935,
+      0.000849
+    ]
+  },
+  "A/Singapore/GP0407/2025_jan_Original": {
+    "frequencies": [
+      0.021559,
+      8.1e-05,
+      4e-06
+    ]
+  },
+  "A/Singapore/GP2743/2025_feb_Original": {
+    "frequencies": [
+      0.008975,
+      0.000163,
+      1.8e-05
+    ]
+  },
+  "A/Singapore/GP4082/2025_mar_Original": {
+    "frequencies": [
+      0.002816,
+      0.000248,
+      4.8e-05
+    ]
+  },
+  "A/Singapore/GP4208/2025_mar_Original": {
+    "frequencies": [
+      0.002578,
+      0.000256,
+      5.1e-05
+    ]
+  },
+  "A/Singapore/GP5927/2025_apr_Original": {
+    "frequencies": [
+      0.000818,
+      0.000852,
+      0.000196
+    ]
+  },
+  "A/Singapore/GP6316/2025_may_Original": {
+    "frequencies": [
+      0.000709,
+      0.001288,
+      0.000256
+    ]
+  },
+  "A/Singapore/GP6851/2025_may_Original": {
+    "frequencies": [
+      0.000576,
+      0.002305,
+      0.000372
+    ]
+  },
+  "A/Singapore/GP6919/2025_may_Original": {
+    "frequencies": [
+      0.000566,
+      0.002404,
+      0.000382
+    ]
+  },
+  "A/Singapore/GP7234/2025_may_Original": {
+    "frequencies": [
+      0.000512,
+      0.003046,
+      0.00045
+    ]
+  },
+  "A/Singapore/GP7311/2025_may_Original": {
+    "frequencies": [
+      0.000504,
+      0.003161,
+      0.000462
+    ]
+  },
+  "A/Singapore/GP7546/2025_may_Original": {
+    "frequencies": [
+      0.000462,
+      0.003759,
+      0.000528
+    ]
+  },
+  "A/Singapore/GP7624/2025_may_Original": {
+    "frequencies": [
+      0.000453,
+      0.003882,
+      0.000542
+    ]
+  },
+  "A/Singapore/GP7721/2025_may_Original": {
+    "frequencies": [
+      0.000445,
+      0.004006,
+      0.000556
+    ]
+  },
+  "A/Singapore/GP7920/2025_jun_Original": {
+    "frequencies": [
+      0.000407,
+      0.004624,
+      0.000632
+    ]
+  },
+  "A/Singapore/GP8090/2025_jun_Original": {
+    "frequencies": [
+      0.00037,
+      0.005217,
+      0.000716
+    ]
+  },
+  "A/Singapore/GP8242/2025_jun_Original": {
+    "frequencies": [
+      0.000356,
+      0.005439,
+      0.000752
+    ]
+  },
+  "A/Singapore/GP8632/2025_jun_Original": {
+    "frequencies": [
+      0.000298,
+      0.006253,
+      0.000933
+    ]
+  },
+  "A/Singapore/KK0261/2025_jan_Original": {
+    "frequencies": [
+      0.018328,
+      0.000106,
+      7e-06
+    ]
+  },
+  "A/Singapore/KK0313/2025_jan_Original": {
+    "frequencies": [
+      0.016864,
+      0.000114,
+      8e-06
+    ]
+  },
+  "A/Singapore/KK0398/2025_jan_Original": {
+    "frequencies": [
+      0.014063,
+      0.00013,
+      1.1e-05
+    ]
+  },
+  "A/Singapore/KK1015/2025_may_Original": {
+    "frequencies": [
+      0.000566,
+      0.002404,
+      0.000382
+    ]
+  },
+  "A/Singapore/KK1027/2025_may_Original": {
+    "frequencies": [
+      0.000539,
+      0.002714,
+      0.000415
+    ]
+  },
+  "A/Singapore/KK1212/2025_jun_Original": {
+    "frequencies": [
+      0.000263,
+      0.006562,
+      0.001072
+    ]
+  },
+  "A/Singapore/MAH0089/2025_jan_Original": {
+    "frequencies": [
+      0.015687,
+      0.000121,
+      9e-06
+    ]
+  },
+  "A/Singapore/MAH0260/2025_jun_Original": {
+    "frequencies": [
+      0.000263,
+      0.006562,
+      0.001072
+    ]
+  },
+  "A/Singapore/MOH0180/2025_may_Original": {
+    "frequencies": [
+      0.000539,
+      0.002714,
+      0.000415
+    ]
+  },
+  "A/Singapore/MOH0181/2025_may_Original": {
+    "frequencies": [
+      0.000539,
+      0.002714,
+      0.000415
+    ]
+  },
+  "A/Singapore/NTF0054/2025_may_Original": {
+    "frequencies": [
+      0.000655,
+      0.001621,
+      0.000297
+    ]
+  },
+  "A/Singapore/NTF0061/2025_may_Original": {
+    "frequencies": [
+      0.000595,
+      0.002117,
+      0.000351
+    ]
+  },
+  "A/Singapore/NUH0110/2025_jan_Original": {
+    "frequencies": [
+      0.019898,
+      9.6e-05,
+      6e-06
+    ]
+  },
+  "A/Singapore/NUH0304/2025_feb_Original": {
+    "frequencies": [
+      0.011229,
+      0.000147,
+      1.4e-05
+    ]
+  },
+  "A/Singapore/NUH0518/2025_may_Original": {
+    "frequencies": [
+      0.000665,
+      0.001549,
+      0.000288
+    ]
+  },
+  "A/Singapore/NUH0566/2025_may_Original": {
+    "frequencies": [
+      0.00053,
+      0.002823,
+      0.000426
+    ]
+  },
+  "A/Singapore/SAR2315/2025_mar_Original": {
+    "frequencies": [
+      0.001456,
+      0.000344,
+      8.5e-05
+    ]
+  },
+  "A/Singapore/TT0450/2025_mar_Original": {
+    "frequencies": [
+      0.003537,
+      0.000228,
+      4e-05
+    ]
+  },
+  "A/Singapore/TT0642/2025_may_Original": {
+    "frequencies": [
+      0.00047,
+      0.003637,
+      0.000514
+    ]
+  },
+  "A/Solomon_Islands/27/2025_mar_Original": {
+    "frequencies": [
+      0.004065,
+      0.000218,
+      3.6e-05
+    ]
+  },
+  "A/Solomon_Islands/29/2025_mar_Original": {
+    "frequencies": [
+      0.002694,
+      0.000252,
+      4.9e-05
+    ]
+  },
+  "A/Solomon_Islands/30/2025_apr_Original": {
+    "frequencies": [
+      0.001194,
+      0.000414,
+      0.000108
+    ]
+  },
+  "A/South_Africa/NICD-R03853/2025_apr_Original": {
+    "frequencies": [
+      0.000924,
+      0.000631,
+      0.000158
+    ]
+  },
+  "A/South_Africa/NICD-R04554/2025_may_Original": {
+    "frequencies": [
+      0.000539,
+      0.002714,
+      0.000415
+    ]
+  },
+  "A/South_Africa/NICD-R04618/2025_may_Original": {
+    "frequencies": [
+      0.00053,
+      0.002823,
+      0.000426
+    ]
+  },
+  "A/South_Africa/NICD-R04969/2025_may_Original": {
+    "frequencies": [
+      0.000445,
+      0.004006,
+      0.000556
+    ]
+  },
+  "A/South_Africa/NICD-R05059/2025_jun_Original": {
+    "frequencies": [
+      0.000407,
+      0.004624,
+      0.000632
+    ]
+  },
+  "A/South_Africa/NICD-R05190/2025_jun_Original": {
+    "frequencies": [
+      0.000392,
+      0.004867,
+      0.000665
+    ]
+  },
+  "A/South_Africa/NICD-R05263/2025_jun_Original": {
+    "frequencies": [
+      0.000363,
+      0.00533,
+      0.000734
+    ]
+  },
+  "A/South_Africa/NICD-R05346/2025_jun_Original": {
+    "frequencies": [
+      0.000392,
+      0.004867,
+      0.000665
+    ]
+  },
+  "A/South_Africa/R01623/2025_feb_Original": {
+    "frequencies": [
+      0.007001,
+      0.00018,
+      2.3e-05
+    ]
+  },
+  "A/South_Africa/R01758/2025_feb_Original": {
+    "frequencies": [
+      0.013243,
+      0.000135,
+      1.2e-05
+    ]
+  },
+  "A/South_Africa/R01788/2025_feb_Original": {
+    "frequencies": [
+      0.004672,
+      0.000208,
+      3.2e-05
+    ]
+  },
+  "A/South_Africa/R01831/2025_mar_Original": {
+    "frequencies": [
+      0.003705,
+      0.000225,
+      3.8e-05
+    ]
+  },
+  "A/South_Africa/R01929/2025_mar": {
+    "frequencies": [
+      0.002946,
+      0.000244,
+      4.6e-05
+    ]
+  },
+  "A/South_Africa/R01961/2025_mar_Original": {
+    "frequencies": [
+      0.002578,
+      0.000256,
+      5.1e-05
+    ]
+  },
+  "A/South_Africa/R03991/2025_apr_Original": {
+    "frequencies": [
+      0.000805,
+      0.000891,
+      0.000202
+    ]
+  },
+  "A/South_Africa/R04084/2025_may_Original": {
+    "frequencies": [
+      0.000709,
+      0.001288,
+      0.000256
+    ]
+  },
+  "A/South_Africa/R04209/2025_may_Original": {
+    "frequencies": [
+      0.000665,
+      0.001549,
+      0.000288
+    ]
+  },
+  "A/South_Africa/R04352/2025_may_Original": {
+    "frequencies": [
+      0.000655,
+      0.001621,
+      0.000297
+    ]
+  },
+  "A/South_Africa/R04391/2025_may_Original": {
+    "frequencies": [
+      0.000605,
+      0.002027,
+      0.000342
+    ]
+  },
+  "A/South_Africa/R04440/2025_may_Original": {
+    "frequencies": [
+      0.000595,
+      0.002117,
+      0.000351
+    ]
+  },
+  "A/South_Africa/R04485/2025_may_Original": {
+    "frequencies": [
+      0.000585,
+      0.00221,
+      0.000361
+    ]
+  },
+  "A/South_Africa/R04501/2025_may_Original": {
+    "frequencies": [
+      0.000605,
+      0.002027,
+      0.000342
+    ]
+  },
+  "A/South_Africa/R05190/2025_S_jun": {
+    "frequencies": [
+      0.000392,
+      0.004867,
+      0.000665
+    ]
+  },
+  "A/South_Africa/R05190/2025_jun": {
+    "frequencies": [
+      0.000392,
+      0.004867,
+      0.000665
+    ]
+  },
+  "A/South_Africa/R05429/2025_jun": {
+    "frequencies": [
+      0.000316,
+      0.006022,
+      0.00087
+    ]
+  },
+  "A/South_Africa/R05591/2025_jun": {
+    "frequencies": [
+      0.000304,
+      0.006181,
+      0.000912
+    ]
+  },
+  "A/South_Australia/14/2025_e_feb": {
+    "frequencies": [
+      0.011625,
+      0.000145,
+      1.4e-05
+    ]
+  },
+  "A/South_Australia/2506300440/2025_mar": {
+    "frequencies": [
+      0.00388,
+      0.000221,
+      3.7e-05
+    ]
+  },
+  "A/South_Australia/2506508387/2025_mar": {
+    "frequencies": [
+      0.003537,
+      0.000228,
+      4e-05
+    ]
+  },
+  "A/South_Australia/2506512987/2025_mar": {
+    "frequencies": [
+      0.003537,
+      0.000228,
+      4e-05
+    ]
+  },
+  "A/South_Australia/2506800613/2025_mar": {
+    "frequencies": [
+      0.003082,
+      0.00024,
+      4.4e-05
+    ]
+  },
+  "A/South_Australia/2506905060/2025_mar": {
+    "frequencies": [
+      0.002946,
+      0.000244,
+      4.6e-05
+    ]
+  },
+  "A/South_Australia/2507309972/2025_mar": {
+    "frequencies": [
+      0.002468,
+      0.00026,
+      5.3e-05
+    ]
+  },
+  "A/South_Australia/2507500162/2025_mar": {
+    "frequencies": [
+      0.002267,
+      0.00027,
+      5.7e-05
+    ]
+  },
+  "A/South_Australia/2507503176/2025_mar": {
+    "frequencies": [
+      0.002267,
+      0.00027,
+      5.7e-05
+    ]
+  },
+  "A/South_Australia/2507614691/2025_mar": {
+    "frequencies": [
+      0.002175,
+      0.000274,
+      5.9e-05
+    ]
+  },
+  "A/South_Australia/2507705088/2025_mar": {
+    "frequencies": [
+      0.002088,
+      0.000279,
+      6.1e-05
+    ]
+  },
+  "A/South_Australia/2507913985/2025_mar": {
+    "frequencies": [
+      0.001929,
+      0.00029,
+      6.5e-05
+    ]
+  },
+  "A/South_Australia/2508501011/2025_mar": {
+    "frequencies": [
+      0.001553,
+      0.000328,
+      8e-05
+    ]
+  },
+  "A/South_Australia/2508512940/2025_mar": {
+    "frequencies": [
+      0.001553,
+      0.000328,
+      8e-05
+    ]
+  },
+  "A/South_Australia/2508804209/2025_mar": {
+    "frequencies": [
+      0.001411,
+      0.000352,
+      8.8e-05
+    ]
+  },
+  "A/South_Australia/2509012639/2025_mar": {
+    "frequencies": [
+      0.00133,
+      0.000371,
+      9.4e-05
+    ]
+  },
+  "A/South_Australia/2509112466/2025_apr": {
+    "frequencies": [
+      0.001293,
+      0.000381,
+      9.8e-05
+    ]
+  },
+  "A/South_Australia/2509113452/2025_apr": {
+    "frequencies": [
+      0.001293,
+      0.000381,
+      9.8e-05
+    ]
+  },
+  "A/South_Australia/2509302904/2025_apr": {
+    "frequencies": [
+      0.001225,
+      0.000402,
+      0.000104
+    ]
+  },
+  "A/South_Australia/2510501305/2025_apr": {
+    "frequencies": [
+      0.000941,
+      0.000607,
+      0.000153
+    ]
+  },
+  "A/South_Australia/2510615338/2025_apr": {
+    "frequencies": [
+      0.000924,
+      0.000631,
+      0.000158
+    ]
+  },
+  "A/South_Australia/2512112588/2025_may": {
+    "frequencies": [
+      0.00072,
+      0.001229,
+      0.000249
+    ]
+  },
+  "A/South_Australia/2512613503/2025_may": {
+    "frequencies": [
+      0.000665,
+      0.001549,
+      0.000288
+    ]
+  },
+  "A/South_Australia/2512613641/2025_may": {
+    "frequencies": [
+      0.000665,
+      0.001549,
+      0.000288
+    ]
+  },
+  "A/South_Australia/2512806918/2025_may": {
+    "frequencies": [
+      0.000644,
+      0.001697,
+      0.000305
+    ]
+  },
+  "A/South_Australia/2513103258/2025_may": {
+    "frequencies": [
+      0.000614,
+      0.00194,
+      0.000332
+    ]
+  },
+  "A/South_Australia/2513306259/2025_may": {
+    "frequencies": [
+      0.000595,
+      0.002117,
+      0.000351
+    ]
+  },
+  "A/South_Australia/2513700850/2025_may": {
+    "frequencies": [
+      0.000557,
+      0.002505,
+      0.000393
+    ]
+  },
+  "A/South_Australia/2513704961/2025_may": {
+    "frequencies": [
+      0.000557,
+      0.002505,
+      0.000393
+    ]
+  },
+  "A/South_Australia/2513804186/2025_may": {
+    "frequencies": [
+      0.000548,
+      0.002608,
+      0.000404
+    ]
+  },
+  "A/South_Australia/2514907065/2025_may": {
+    "frequencies": [
+      0.000453,
+      0.003882,
+      0.000542
+    ]
+  },
+  "A/South_Australia/2517713429/2025_jun": {
+    "frequencies": [
+      0.000263,
+      0.006562,
+      0.001072
+    ]
+  },
+  "A/South_Australia/2520106139/2025_jul": {
+    "frequencies": [
+      0.000153,
+      0.005549,
+      0.001785
+    ]
+  },
+  "A/South_Australia/2520207709/2025_jul": {
+    "frequencies": [
+      0.000149,
+      0.005442,
+      0.001821
+    ]
+  },
+  "A/South_Australia/2520300055/2025_jul": {
+    "frequencies": [
+      0.000146,
+      0.005333,
+      0.001857
+    ]
+  },
+  "A/South_Australia/2520400375/2025_jul": {
+    "frequencies": [
+      0.000142,
+      0.005221,
+      0.001894
+    ]
+  },
+  "A/South_Australia/2520410978/2025_jul": {
+    "frequencies": [
+      0.000142,
+      0.005221,
+      0.001894
+    ]
+  },
+  "A/South_Australia/2520414049/2025_jul": {
+    "frequencies": [
+      0.000142,
+      0.005221,
+      0.001894
+    ]
+  },
+  "A/South_Australia/2520512691/2025_jul": {
+    "frequencies": [
+      0.000139,
+      0.005106,
+      0.001931
+    ]
+  },
+  "A/South_Australia/2521912527/2025_aug": {
+    "frequencies": [
+      9.7e-05,
+      0.0034,
+      0.002503
+    ]
+  },
+  "A/South_Australia/2522001755/2025_aug": {
+    "frequencies": [
+      9.5e-05,
+      0.003281,
+      0.002547
+    ]
+  },
+  "A/South_Australia/2522011747/2025_aug": {
+    "frequencies": [
+      9.5e-05,
+      0.003281,
+      0.002547
+    ]
+  },
+  "A/South_Australia/2522108504/2025_aug": {
+    "frequencies": [
+      9.2e-05,
+      0.003165,
+      0.002592
+    ]
+  },
+  "A/South_Australia/2522201752/2025_aug": {
+    "frequencies": [
+      9e-05,
+      0.00305,
+      0.002638
+    ]
+  },
+  "A/South_Australia/2522309976/2025_aug": {
+    "frequencies": [
+      8.8e-05,
+      0.002937,
+      0.002684
+    ]
+  },
+  "A/South_Australia/2522311797/2025_aug": {
+    "frequencies": [
+      8.8e-05,
+      0.002937,
+      0.002684
+    ]
+  },
+  "A/South_Australia/2522411346/2025_aug": {
+    "frequencies": [
+      8.5e-05,
+      0.002826,
+      0.00273
+    ]
+  },
+  "A/South_Australia/2522414232/2025_aug": {
+    "frequencies": [
+      8.5e-05,
+      0.002826,
+      0.00273
+    ]
+  },
+  "A/South_Australia/2522714878/2025_aug": {
+    "frequencies": [
+      7.9e-05,
+      0.002508,
+      0.002873
+    ]
+  },
+  "A/South_Australia/2522900332/2025_aug": {
+    "frequencies": [
+      7.4e-05,
+      0.002308,
+      0.002971
+    ]
+  },
+  "A/South_Australia/2522904534/2025_aug": {
+    "frequencies": [
+      7.4e-05,
+      0.002308,
+      0.002971
+    ]
+  },
+  "A/South_Australia/2522904819/2025_aug": {
+    "frequencies": [
+      7.4e-05,
+      0.002308,
+      0.002971
+    ]
+  },
+  "A/South_Australia/2523000595/2025_aug": {
+    "frequencies": [
+      7.2e-05,
+      0.002213,
+      0.003021
+    ]
+  },
+  "A/South_Australia/2523001097/2025_aug": {
+    "frequencies": [
+      7.2e-05,
+      0.002213,
+      0.003021
+    ]
+  },
+  "A/South_Australia/2523013623/2025_aug": {
+    "frequencies": [
+      7.2e-05,
+      0.002213,
+      0.003021
+    ]
+  },
+  "A/South_Australia/2523108240/2025_aug": {
+    "frequencies": [
+      7e-05,
+      0.00212,
+      0.003071
+    ]
+  },
+  "A/South_Australia/2523110275/2025_aug": {
+    "frequencies": [
+      7e-05,
+      0.00212,
+      0.003071
+    ]
+  },
+  "A/South_Australia/2523111821/2025_aug": {
+    "frequencies": [
+      7e-05,
+      0.00212,
+      0.003071
+    ]
+  },
+  "A/South_Australia/2523211270/2025_aug": {
+    "frequencies": [
+      6.9e-05,
+      0.00203,
+      0.003122
+    ]
+  },
+  "A/South_Australia/2523212426/2025_aug": {
+    "frequencies": [
+      6.9e-05,
+      0.00203,
+      0.003122
+    ]
+  },
+  "A/South_Australia/2523500316/2025_aug": {
+    "frequencies": [
+      6.3e-05,
+      0.001777,
+      0.003278
+    ]
+  },
+  "A/South_Australia/2525005728/2025_sep": {
+    "frequencies": [
+      4.1e-05,
+      0.000892,
+      0.004158
+    ]
+  },
+  "A/South_Australia/2525301148/2025_sep": {
+    "frequencies": [
+      3.7e-05,
+      0.000781,
+      0.004364
+    ]
+  },
+  "A/South_Australia/2525414464/2025_sep": {
+    "frequencies": [
+      3.6e-05,
+      0.000747,
+      0.004436
+    ]
+  },
+  "A/South_Australia/2525513781/2025_sep": {
+    "frequencies": [
+      3.5e-05,
+      0.000716,
+      0.004511
+    ]
+  },
+  "A/South_Australia/2525600620/2025_sep": {
+    "frequencies": [
+      3.4e-05,
+      0.000686,
+      0.004587
+    ]
+  },
+  "A/South_Australia/2525607496/2025_sep": {
+    "frequencies": [
+      3.4e-05,
+      0.000686,
+      0.004587
+    ]
+  },
+  "A/South_Australia/2525704107/2025_sep": {
+    "frequencies": [
+      3.3e-05,
+      0.000659,
+      0.004665
+    ]
+  },
+  "A/South_Australia/2525704276/2025_sep": {
+    "frequencies": [
+      3.3e-05,
+      0.000659,
+      0.004665
+    ]
+  },
+  "A/South_Australia/2525704779/2025_sep": {
+    "frequencies": [
+      3.3e-05,
+      0.000659,
+      0.004665
+    ]
+  },
+  "A/South_Australia/2525801021/2025_sep": {
+    "frequencies": [
+      3.2e-05,
+      0.000632,
+      0.004746
+    ]
+  },
+  "A/South_Australia/2525815801/2025_sep": {
+    "frequencies": [
+      3.2e-05,
+      0.000632,
+      0.004746
+    ]
+  },
+  "A/South_Australia/2525901892/2025_sep": {
+    "frequencies": [
+      3.1e-05,
+      0.000607,
+      0.00483
+    ]
+  },
+  "A/South_Australia/2525902540/2025_sep": {
+    "frequencies": [
+      3.1e-05,
+      0.000607,
+      0.00483
+    ]
+  },
+  "A/South_Australia/2525908714/2025_sep": {
+    "frequencies": [
+      3.1e-05,
+      0.000607,
+      0.00483
+    ]
+  },
+  "A/South_Australia/2525908833/2025_sep": {
+    "frequencies": [
+      3.1e-05,
+      0.000607,
+      0.00483
+    ]
+  },
+  "A/South_Australia/2525910854/2025_sep": {
+    "frequencies": [
+      3.1e-05,
+      0.000607,
+      0.00483
+    ]
+  },
+  "A/South_Australia/2525911555/2025_sep": {
+    "frequencies": [
+      3.1e-05,
+      0.000607,
+      0.00483
+    ]
+  },
+  "A/South_Australia/2526000544/2025_sep": {
+    "frequencies": [
+      3e-05,
+      0.000584,
+      0.004917
+    ]
+  },
+  "A/South_Australia/2526003479/2025_sep": {
+    "frequencies": [
+      3e-05,
+      0.000584,
+      0.004917
+    ]
+  },
+  "A/South_Australia/2526005360/2025_sep": {
+    "frequencies": [
+      3e-05,
+      0.000584,
+      0.004917
+    ]
+  },
+  "A/South_Australia/2526007591/2025_sep": {
+    "frequencies": [
+      3e-05,
+      0.000584,
+      0.004917
+    ]
+  },
+  "A/South_Australia/2526011166/2025_sep": {
+    "frequencies": [
+      3e-05,
+      0.000584,
+      0.004917
+    ]
+  },
+  "A/South_Australia/2526012316/2025_sep": {
+    "frequencies": [
+      3e-05,
+      0.000584,
+      0.004917
+    ]
+  },
+  "A/South_Australia/2526105534/2025_sep": {
+    "frequencies": [
+      2.9e-05,
+      0.000562,
+      0.005007
+    ]
+  },
+  "A/South_Australia/2526110154/2025_sep": {
+    "frequencies": [
+      2.9e-05,
+      0.000562,
+      0.005007
+    ]
+  },
+  "A/South_Australia/2526113257/2025_sep": {
+    "frequencies": [
+      2.9e-05,
+      0.000562,
+      0.005007
+    ]
+  },
+  "A/South_Australia/2526208975/2025_sep": {
+    "frequencies": [
+      2.8e-05,
+      0.000541,
+      0.005101
+    ]
+  },
+  "A/South_Australia/2526304490/2025_sep": {
+    "frequencies": [
+      2.7e-05,
+      0.000522,
+      0.005198
+    ]
+  },
+  "A/South_Australia/2526307838/2025_sep": {
+    "frequencies": [
+      2.7e-05,
+      0.000522,
+      0.005198
+    ]
+  },
+  "A/South_Australia/2526400353/2025_sep": {
+    "frequencies": [
+      2.7e-05,
+      0.000504,
+      0.0053
+    ]
+  },
+  "A/South_Australia/2526608759/2025_sep": {
+    "frequencies": [
+      2.5e-05,
+      0.00047,
+      0.005517
+    ]
+  },
+  "A/South_Australia/2526702691/2025_sep": {
+    "frequencies": [
+      2.4e-05,
+      0.000455,
+      0.005633
+    ]
+  },
+  "A/South_Australia/2526708037/2025_sep": {
+    "frequencies": [
+      2.4e-05,
+      0.000455,
+      0.005633
+    ]
+  },
+  "A/South_Australia/2526715152/2025_sep": {
+    "frequencies": [
+      2.4e-05,
+      0.000455,
+      0.005633
+    ]
+  },
+  "A/South_Australia/2526715165/2025_sep": {
+    "frequencies": [
+      2.4e-05,
+      0.000455,
+      0.005633
+    ]
+  },
+  "A/South_Australia/2526805766/2025_sep": {
+    "frequencies": [
+      2.3e-05,
+      0.000441,
+      0.005756
+    ]
+  },
+  "A/South_Australia/2526807685/2025_sep": {
+    "frequencies": [
+      2.3e-05,
+      0.000441,
+      0.005756
+    ]
+  },
+  "A/South_Australia/2526906790/2025_sep": {
+    "frequencies": [
+      2.3e-05,
+      0.000427,
+      0.005884
+    ]
+  },
+  "A/South_Australia/2526911204/2025_sep": {
+    "frequencies": [
+      2.3e-05,
+      0.000427,
+      0.005884
+    ]
+  },
+  "A/South_Australia/2527000832/2025_sep": {
+    "frequencies": [
+      2.2e-05,
+      0.000415,
+      0.00602
+    ]
+  },
+  "A/South_Australia/2527001628/2025_sep": {
+    "frequencies": [
+      2.2e-05,
+      0.000415,
+      0.00602
+    ]
+  },
+  "A/South_Australia/2527002532/2025_sep": {
+    "frequencies": [
+      2.2e-05,
+      0.000415,
+      0.00602
+    ]
+  },
+  "A/South_Australia/2527003588/2025_sep": {
+    "frequencies": [
+      2.2e-05,
+      0.000415,
+      0.00602
+    ]
+  },
+  "A/South_Australia/2527006979/2025_sep": {
+    "frequencies": [
+      2.2e-05,
+      0.000415,
+      0.00602
+    ]
+  },
+  "A/South_Australia/2527007007/2025_sep": {
+    "frequencies": [
+      2.2e-05,
+      0.000415,
+      0.00602
+    ]
+  },
+  "A/South_Australia/2527007394/2025_sep": {
+    "frequencies": [
+      2.2e-05,
+      0.000415,
+      0.00602
+    ]
+  },
+  "A/South_Australia/2527007683/2025_sep": {
+    "frequencies": [
+      2.2e-05,
+      0.000415,
+      0.00602
+    ]
+  },
+  "A/South_Australia/2527101258/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000403,
+      0.006162
+    ]
+  },
+  "A/South_Australia/2527101762/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000403,
+      0.006162
+    ]
+  },
+  "A/South_Australia/2527103074/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000403,
+      0.006162
+    ]
+  },
+  "A/South_Australia/2527103948/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000403,
+      0.006162
+    ]
+  },
+  "A/South_Australia/2527104312/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000403,
+      0.006162
+    ]
+  },
+  "A/South_Australia/2527105791/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000403,
+      0.006162
+    ]
+  },
+  "A/South_Australia/2527106304/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000403,
+      0.006162
+    ]
+  },
+  "A/South_Australia/2527106353/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000403,
+      0.006162
+    ]
+  },
+  "A/South_Australia/2527204696/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000391,
+      0.006313
+    ]
+  },
+  "A/South_Australia/2527208919/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000391,
+      0.006313
+    ]
+  },
+  "A/South_Australia/2527211787/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000391,
+      0.006313
+    ]
+  },
+  "A/South_Australia/2527213276/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000391,
+      0.006313
+    ]
+  },
+  "A/South_Australia/2527213910/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000391,
+      0.006313
+    ]
+  },
+  "A/South_Australia/2527215142/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000391,
+      0.006313
+    ]
+  },
+  "A/South_Australia/2527216421/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000391,
+      0.006313
+    ]
+  },
+  "A/South_Australia/2527300680/2025_sep": {
+    "frequencies": [
+      2e-05,
+      0.000381,
+      0.006472
+    ]
+  },
+  "A/South_Australia/2527306708/2025_sep": {
+    "frequencies": [
+      2e-05,
+      0.000381,
+      0.006472
+    ]
+  },
+  "A/South_Australia/2527309180/2025_sep": {
+    "frequencies": [
+      2e-05,
+      0.000381,
+      0.006472
+    ]
+  },
+  "A/South_Australia/2527312323/2025_sep": {
+    "frequencies": [
+      2e-05,
+      0.000381,
+      0.006472
+    ]
+  },
+  "A/South_Australia/2527313093/2025_sep": {
+    "frequencies": [
+      2e-05,
+      0.000381,
+      0.006472
+    ]
+  },
+  "A/South_Australia/2527313344/2025_sep": {
+    "frequencies": [
+      2e-05,
+      0.000381,
+      0.006472
+    ]
+  },
+  "A/South_Australia/2527313887/2025_sep": {
+    "frequencies": [
+      2e-05,
+      0.000381,
+      0.006472
+    ]
+  },
+  "A/South_Australia/2527414991/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000371,
+      0.006641
+    ]
+  },
+  "A/South_Australia/2527415237/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000371,
+      0.006641
+    ]
+  },
+  "A/South_Australia/2527415989/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000371,
+      0.006641
+    ]
+  },
+  "A/South_Australia/2527500033/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000361,
+      0.00682
+    ]
+  },
+  "A/South_Australia/2527501162/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000361,
+      0.00682
+    ]
+  },
+  "A/South_Australia/2527506294/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000361,
+      0.00682
+    ]
+  },
+  "A/South_Australia/2527511513/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000361,
+      0.00682
+    ]
+  },
+  "A/South_Australia/2527512239/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000361,
+      0.00682
+    ]
+  },
+  "A/South_Australia/2527512661/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000361,
+      0.00682
+    ]
+  },
+  "A/South_Australia/2527513504/2025_oct": {
+    "frequencies": [
+      1.9e-05,
+      0.000361,
+      0.00682
+    ]
+  },
+  "A/South_Australia/2527600406/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527600929/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527601123/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527603984/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527608308/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527609180/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527613951/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527613964/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527614449/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527614769/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527614917/2025_oct": {
+    "frequencies": [
+      1.8e-05,
+      0.000353,
+      0.007009
+    ]
+  },
+  "A/South_Australia/2527700471/2025_oct": {
+    "frequencies": [
+      1.7e-05,
+      0.000344,
+      0.00721
+    ]
+  },
+  "A/South_Australia/2527702642/2025_oct": {
+    "frequencies": [
+      1.7e-05,
+      0.000344,
+      0.00721
+    ]
+  },
+  "A/South_Australia/2527703707/2025_oct": {
+    "frequencies": [
+      1.7e-05,
+      0.000344,
+      0.00721
+    ]
+  },
+  "A/South_Australia/2527708528/2025_oct": {
+    "frequencies": [
+      1.7e-05,
+      0.000344,
+      0.00721
+    ]
+  },
+  "A/South_Australia/2527802112/2025_oct": {
+    "frequencies": [
+      1.7e-05,
+      0.000336,
+      0.007423
+    ]
+  },
+  "A/South_Australia/2527805441/2025_oct": {
+    "frequencies": [
+      1.7e-05,
+      0.000336,
+      0.007423
+    ]
+  },
+  "A/South_Australia/2527806000/2025_oct": {
+    "frequencies": [
+      1.7e-05,
+      0.000336,
+      0.007423
+    ]
+  },
+  "A/South_Australia/2527806288/2025_oct": {
+    "frequencies": [
+      1.7e-05,
+      0.000336,
+      0.007423
+    ]
+  },
+  "A/South_Australia/2527900016/2025_oct": {
+    "frequencies": [
+      1.6e-05,
+      0.000329,
+      0.00765
+    ]
+  },
+  "A/South_Australia/2527900077/2025_oct": {
+    "frequencies": [
+      1.6e-05,
+      0.000329,
+      0.00765
+    ]
+  },
+  "A/South_Australia/2527902596/2025_oct": {
+    "frequencies": [
+      1.6e-05,
+      0.000329,
+      0.00765
+    ]
+  },
+  "A/South_Australia/2527902708/2025_oct": {
+    "frequencies": [
+      1.6e-05,
+      0.000329,
+      0.00765
+    ]
+  },
+  "A/South_Australia/2527902969/2025_oct": {
+    "frequencies": [
+      1.6e-05,
+      0.000329,
+      0.00765
+    ]
+  },
+  "A/South_Australia/2527904509/2025_oct": {
+    "frequencies": [
+      1.6e-05,
+      0.000329,
+      0.00765
+    ]
+  },
+  "A/South_Australia/2527905012/2025_oct": {
+    "frequencies": [
+      1.6e-05,
+      0.000329,
+      0.00765
+    ]
+  },
+  "A/South_Australia/98/2025_jul": {
+    "frequencies": [
+      0.000226,
+      0.006632,
+      0.001253
+    ]
+  },
+  "A/South_Queensland/13/2025_mar": {
+    "frequencies": [
+      0.003082,
+      0.00024,
+      4.4e-05
+    ]
+  },
+  "A/South_Queensland/130/2025_jul_Original": {
+    "frequencies": [
+      0.000172,
+      0.006024,
+      0.001615
+    ]
+  },
+  "A/South_Queensland/19/2025_mar": {
+    "frequencies": [
+      0.002006,
+      0.000285,
+      6.3e-05
+    ]
+  },
+  "A/South_Queensland/21/2025_mar": {
+    "frequencies": [
+      0.002816,
+      0.000248,
+      4.8e-05
+    ]
+  },
+  "A/South_Queensland/23/2025_mar": {
+    "frequencies": [
+      0.001663,
+      0.000314,
+      7.5e-05
+    ]
+  },
+  "A/South_Queensland/25/2025_apr_QMC": {
+    "frequencies": [
+      0.001293,
+      0.000381,
+      9.8e-05
+    ]
+  },
+  "A/South_Queensland/25/2025_q_apr": {
+    "frequencies": [
+      0.001293,
+      0.000381,
+      9.8e-05
+    ]
+  },
+  "A/South_Queensland/30/2025_apr": {
+    "frequencies": [
+      0.000924,
+      0.000631,
+      0.000158
+    ]
+  },
+  "A/South_Queensland/4/2025_mar": {
+    "frequencies": [
+      0.004258,
+      0.000214,
+      3.4e-05
+    ]
+  },
+  "A/South_Queensland/74/2025_apr": {
+    "frequencies": [
+      0.00111,
+      0.000455,
+      0.000119
+    ]
+  },
+  "A/Sri_Lanka/19/2025_mar_Original": {
+    "frequencies": [
+      0.00446,
+      0.000211,
+      3.3e-05
+    ]
+  },
+  "A/Sri_Lanka/21/2025_mar": {
+    "frequencies": [
+      0.001503,
+      0.000336,
+      8.3e-05
+    ]
+  },
+  "A/Sri_Lanka/30/2025_may": {
+    "frequencies": [
+      0.000687,
+      0.001413,
+      0.000272
+    ]
+  },
+  "A/Sri_Lanka/36/2025_may_Original": {
+    "frequencies": [
+      0.000605,
+      0.002027,
+      0.000342
+    ]
+  },
+  "A/Sri_Lanka/58/2025_jun": {
+    "frequencies": [
+      0.000343,
+      0.005649,
+      0.00079
+    ]
+  },
+  "A/Sydney/144/2025_may": {
+    "frequencies": [
+      0.000697,
+      0.001349,
+      0.000264
+    ]
+  },
+  "A/Sydney/16/2025_e_jan": {
+    "frequencies": [
+      0.017976,
+      0.000108,
+      7e-06
+    ]
+  },
+  "A/Sydney/16/2025_jan": {
+    "frequencies": [
+      0.017976,
+      0.000108,
+      7e-06
+    ]
+  },
+  "A/Sydney/16/2025_q_S_jan": {
+    "frequencies": [
+      0.017976,
+      0.000108,
+      7e-06
+    ]
+  },
+  "A/Sydney/429/2025_jul_Original": {
+    "frequencies": [
+      0.000164,
+      0.005846,
+      0.001681
+    ]
+  },
+  "A/Sydney/434/2025_jul": {
+    "frequencies": [
+      0.000185,
+      0.006255,
+      0.001518
+    ]
+  },
+  "A/Sydney/435/2025_jul": {
+    "frequencies": [
+      0.000185,
+      0.006255,
+      0.001518
+    ]
+  },
+  "A/Sydney/449/2025_jul": {
+    "frequencies": [
+      0.000176,
+      0.006106,
+      0.001582
+    ]
+  },
+  "A/Sydney/514/2025_jul": {
+    "frequencies": [
+      0.000135,
+      0.004989,
+      0.001969
+    ]
+  },
+  "A/Sydney/578/2025_jul_LR": {
+    "frequencies": [
+      0.000123,
+      0.004505,
+      0.002124
+    ]
+  },
+  "A/Sydney/68/2025_feb": {
+    "frequencies": [
+      0.013653,
+      0.000132,
+      1.1e-05
+    ]
+  },
+  "A/Sydney/68/2025_q_S_feb": {
+    "frequencies": [
+      0.013653,
+      0.000132,
+      1.1e-05
+    ]
+  },
+  "A/Sydney/699/2025_aug": {
+    "frequencies": [
+      5.5e-05,
+      0.001415,
+      0.00355
+    ]
+  },
+  "A/Sydney/7/2025_q_jan": {
+    "frequencies": [
+      0.020422,
+      9.2e-05,
+      5e-06
+    ]
+  },
+  "A/Sydney/703/2025_aug": {
+    "frequencies": [
+      5.5e-05,
+      0.001415,
+      0.00355
+    ]
+  },
+  "A/Sydney/71/2025_mar": {
+    "frequencies": [
+      0.003226,
+      0.000236,
+      4.3e-05
+    ]
+  },
+  "A/Sydney/75/2025_mar": {
+    "frequencies": [
+      0.001663,
+      0.000314,
+      7.5e-05
+    ]
+  },
+  "A/Sydney/86/2025_mar": {
+    "frequencies": [
+      0.002175,
+      0.000274,
+      5.9e-05
+    ]
+  },
+  "A/Tasmania/143/2025_mar": {
+    "frequencies": [
+      0.002365,
+      0.000265,
+      5.5e-05
+    ]
+  },
+  "A/Tasmania/174/2025_mar": {
+    "frequencies": [
+      0.003226,
+      0.000236,
+      4.3e-05
+    ]
+  },
+  "A/Tasmania/175/2025_mar": {
+    "frequencies": [
+      0.002088,
+      0.000279,
+      6.1e-05
+    ]
+  },
+  "A/Tasmania/185/2025_mar_QMC": {
+    "frequencies": [
+      0.002578,
+      0.000256,
+      5.1e-05
+    ]
+  },
+  "A/Tasmania/185/2025_q_mar": {
+    "frequencies": [
+      0.002578,
+      0.000256,
+      5.1e-05
+    ]
+  },
+  "A/Tasmania/208/2025_mar": {
+    "frequencies": [
+      0.002088,
+      0.000279,
+      6.1e-05
+    ]
+  },
+  "A/Tasmania/2521815682/2025_aug_LR": {
+    "frequencies": [
+      0.0001,
+      0.00352,
+      0.002458
+    ]
+  },
+  "A/Tasmania/308/2025_mar": {
+    "frequencies": [
+      0.001929,
+      0.00029,
+      6.5e-05
+    ]
+  },
+  "A/Tasmania/328/2025_may": {
+    "frequencies": [
+      0.000676,
+      0.001479,
+      0.00028
+    ]
+  },
+  "A/Tasmania/343/2025_may_LR": {
+    "frequencies": [
+      0.000595,
+      0.002117,
+      0.000351
+    ]
+  },
+  "A/Tasmania/395/2025_may": {
+    "frequencies": [
+      0.000495,
+      0.003278,
+      0.000475
+    ]
+  },
+  "A/Tasmania/46/2025_e_feb": {
+    "frequencies": [
+      0.006416,
+      0.000186,
+      2.5e-05
+    ]
+  },
+  "A/Tasmania/46/2025_q_feb": {
+    "frequencies": [
+      0.006416,
+      0.000186,
+      2.5e-05
+    ]
+  },
+  "A/Tasmania/493/2025_jun": {
+    "frequencies": [
+      0.000407,
+      0.004624,
+      0.000632
+    ]
+  },
+  "A/Tasmania/501/2025_jun": {
+    "frequencies": [
+      0.000414,
+      0.004502,
+      0.000616
+    ]
+  },
+  "A/Tasmania/504/2025_jun": {
+    "frequencies": [
+      0.000392,
+      0.004867,
+      0.000665
+    ]
+  },
+  "A/Tasmania/511/2025_jun": {
+    "frequencies": [
+      0.000407,
+      0.004624,
+      0.000632
+    ]
+  },
+  "A/Tasmania/557/2025_S_jun": {
+    "frequencies": [
+      0.00031,
+      0.006104,
+      0.00089
+    ]
+  },
+  "A/Tasmania/557/2025_jun": {
+    "frequencies": [
+      0.00031,
+      0.006104,
+      0.00089
+    ]
+  },
+  "A/Tasmania/568/2025_jun": {
+    "frequencies": [
+      0.00028,
+      0.006434,
+      0.001001
+    ]
+  },
+  "A/Tasmania/626/2025_jul": {
+    "frequencies": [
+      0.000207,
+      0.006527,
+      0.001366
+    ]
+  },
+  "A/Tasmania/627/2025_S_jul": {
+    "frequencies": [
+      0.000207,
+      0.006527,
+      0.001366
+    ]
+  },
+  "A/Tasmania/627/2025_jul": {
+    "frequencies": [
+      0.000207,
+      0.006527,
+      0.001366
+    ]
+  },
+  "A/Tasmania/64/2025_q_jan": {
+    "frequencies": [
+      0.019612,
+      9.8e-05,
+      6e-06
+    ]
+  },
+  "A/Tasmania/645/2025_jul": {
+    "frequencies": [
+      0.000202,
+      0.006484,
+      0.001395
+    ]
+  },
+  "A/Tasmania/676/2025_jul": {
+    "frequencies": [
+      0.000185,
+      0.006255,
+      0.001518
+    ]
+  },
+  "A/Tasmania/705/2025_jul": {
+    "frequencies": [
+      0.000135,
+      0.004989,
+      0.001969
+    ]
+  },
+  "A/Tasmania/729/2025_jul": {
+    "frequencies": [
+      0.000123,
+      0.004505,
+      0.002124
+    ]
+  },
+  "A/Tasmania/784/2025_aug_LR": {
+    "frequencies": [
+      0.0001,
+      0.00352,
+      0.002458
+    ]
+  },
+  "A/Tasmania/787/2025_aug_LR": {
+    "frequencies": [
+      7.2e-05,
+      0.002213,
+      0.003021
+    ]
+  },
+  "A/Trang/67/2025_apr_Original": {
+    "frequencies": [
+      0.000907,
+      0.000658,
+      0.000163
+    ]
+  },
+  "A/Trang/73/2025_apr_Original": {
+    "frequencies": [
+      0.000832,
+      0.000815,
+      0.00019
+    ]
+  },
+  "A/Victoria/1088/2025_jun": {
+    "frequencies": [
+      0.000298,
+      0.006253,
+      0.000933
+    ]
+  },
+  "A/Victoria/1226/2025_jul_Original": {
+    "frequencies": [
+      0.000202,
+      0.006484,
+      0.001395
+    ]
+  },
+  "A/Victoria/143/2025_e_feb": {
+    "frequencies": [
+      0.010072,
+      0.000155,
+      1.6e-05
+    ]
+  },
+  "A/Victoria/211/2025_q_jan": {
+    "frequencies": [
+      0.020659,
+      9e-05,
+      5e-06
+    ]
+  },
+  "A/Victoria/244/2025_q_feb": {
+    "frequencies": [
+      0.006416,
+      0.000186,
+      2.5e-05
+    ]
+  },
+  "A/Victoria/2523215286/2025_aug": {
+    "frequencies": [
+      6.9e-05,
+      0.00203,
+      0.003122
+    ]
+  },
+  "A/Victoria/2525608275/2025_sep": {
+    "frequencies": [
+      3.4e-05,
+      0.000686,
+      0.004587
+    ]
+  },
+  "A/Victoria/2525706517/2025_sep": {
+    "frequencies": [
+      3.3e-05,
+      0.000659,
+      0.004665
+    ]
+  },
+  "A/Victoria/2526715478/2025_sep": {
+    "frequencies": [
+      2.4e-05,
+      0.000455,
+      0.005633
+    ]
+  },
+  "A/Victoria/2527216497/2025_sep": {
+    "frequencies": [
+      2.1e-05,
+      0.000391,
+      0.006313
+    ]
+  },
+  "A/Victoria/254/2025_mar_Original": {
+    "frequencies": [
+      0.004065,
+      0.000218,
+      3.6e-05
+    ]
+  },
+  "A/Victoria/257/2025_mar_QMC": {
+    "frequencies": [
+      0.003378,
+      0.000232,
+      4.1e-05
+    ]
+  },
+  "A/Victoria/257/2025_q_mar": {
+    "frequencies": [
+      0.003378,
+      0.000232,
+      4.1e-05
+    ]
+  },
+  "A/Victoria/284/2025_mar": {
+    "frequencies": [
+      0.002946,
+      0.000244,
+      4.6e-05
+    ]
+  },
+  "A/Victoria/317/2025_mar_QMC": {
+    "frequencies": [
+      0.003082,
+      0.00024,
+      4.4e-05
+    ]
+  },
+  "A/Victoria/317/2025_q_mar": {
+    "frequencies": [
+      0.003082,
+      0.00024,
+      4.4e-05
+    ]
+  },
+  "A/Victoria/324/2025_mar": {
+    "frequencies": [
+      0.002468,
+      0.00026,
+      5.3e-05
+    ]
+  },
+  "A/Victoria/336/2025_mar_Original": {
+    "frequencies": [
+      0.002267,
+      0.00027,
+      5.7e-05
+    ]
+  },
+  "A/Victoria/340/2025_mar": {
+    "frequencies": [
+      0.002468,
+      0.00026,
+      5.3e-05
+    ]
+  },
+  "A/Victoria/359/2025_mar": {
+    "frequencies": [
+      0.001929,
+      0.00029,
+      6.5e-05
+    ]
+  },
+  "A/Victoria/397/2025_mar": {
+    "frequencies": [
+      0.00133,
+      0.000371,
+      9.4e-05
+    ]
+  },
+  "A/Victoria/404/2025_mar": {
+    "frequencies": [
+      0.001456,
+      0.000344,
+      8.5e-05
+    ]
+  },
+  "A/Victoria/405/2025_mar": {
+    "frequencies": [
+      0.001411,
+      0.000352,
+      8.8e-05
+    ]
+  },
+  "A/Victoria/436/2025_mar": {
+    "frequencies": [
+      0.002468,
+      0.00026,
+      5.3e-05
+    ]
+  },
+  "A/Victoria/451/2025_apr": {
+    "frequencies": [
+      0.000924,
+      0.000631,
+      0.000158
+    ]
+  },
+  "A/Victoria/570/2025_apr": {
+    "frequencies": [
+      0.000846,
+      0.00078,
+      0.000184
+    ]
+  },
+  "A/Victoria/587/2025_apr": {
+    "frequencies": [
+      0.000891,
+      0.000686,
+      0.000168
+    ]
+  },
+  "A/Victoria/619/2025_may": {
+    "frequencies": [
+      0.000665,
+      0.001549,
+      0.000288
+    ]
+  },
+  "A/Victoria/699/2025_may_QMC": {
+    "frequencies": [
+      0.000605,
+      0.002027,
+      0.000342
+    ]
+  },
+  "A/Victoria/699/2025_q_may": {
+    "frequencies": [
+      0.000605,
+      0.002027,
+      0.000342
+    ]
+  },
+  "A/Victoria/70/2025_q_jan": {
+    "frequencies": [
+      0.020659,
+      9e-05,
+      5e-06
+    ]
+  },
+  "A/Victoria/701/2025_may_QMC": {
+    "frequencies": [
+      0.000595,
+      0.002117,
+      0.000351
+    ]
+  },
+  "A/Victoria/701/2025_q_may": {
+    "frequencies": [
+      0.000595,
+      0.002117,
+      0.000351
+    ]
+  },
+  "A/Victoria/72/2025_e_jan": {
+    "frequencies": [
+      0.020169,
+      9.4e-05,
+      5e-06
+    ]
+  },
+  "A/Victoria/769/2025_S_may": {
+    "frequencies": [
+      0.00047,
+      0.003637,
+      0.000514
+    ]
+  },
+  "A/Victoria/769/2025_may_LR": {
+    "frequencies": [
+      0.00047,
+      0.003637,
+      0.000514
+    ]
+  },
+  "A/Victoria/818/2025_jun": {
+    "frequencies": [
+      0.00043,
+      0.004254,
+      0.000585
+    ]
+  },
+  "A/Victoria/819/2025_may": {
+    "frequencies": [
+      0.000437,
+      0.00413,
+      0.00057
+    ]
+  },
+  "A/Victoria/869/2025_may_QMC": {
+    "frequencies": [
+      0.000445,
+      0.004006,
+      0.000556
+    ]
+  },
+  "A/Victoria/869/2025_q_may": {
+    "frequencies": [
+      0.000445,
+      0.004006,
+      0.000556
+    ]
+  },
+  "A/Western_Australia/2526516830/2025_sep": {
+    "frequencies": [
+      2.6e-05,
+      0.000486,
+      0.005406
+    ]
+  },
+  "A/Western_Australia/2526516832/2025_sep": {
+    "frequencies": [
+      2.6e-05,
+      0.000486,
+      0.005406
+    ]
+  },
+  "cdcA/Alaska/08/2025_F_S": {
+    "frequencies": [
+      0.015687,
+      0.000121,
+      9e-06
+    ]
+  },
+  "cdcA/Mississippi/37/2025_F_S": {
+    "frequencies": [
+      0.002175,
+      0.000274,
+      5.9e-05
+    ]
+  },
+  "cdcA/South_Africa/4109/2025_S": {
+    "frequencies": [
+      0.000709,
+      0.001288,
+      0.000256
+    ]
+  },
+  "clade|3C.2a1b.2a.2a.3a.1": {
+    "frequencies": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "cnicA/Guangxi-Longzhou/1484/2025": {
+    "frequencies": [
+      0.00037,
+      0.005217,
+      0.000716
+    ]
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "29.0.0"
+  },
+  "global": {
+    "frequencies": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "othA/Catalonia/NSJO510896729/2025": {
+    "frequencies": [
+      0.000168,
+      0.005938,
+      0.001648
+    ]
+  },
+  "othA/Catalonia/NSVH133238081/2025": {
+    "frequencies": [
+      6e-05,
+      0.001623,
+      0.003385
+    ]
+  },
+  "othA/Denmark/2956/2025": {
+    "frequencies": [
+      0.000731,
+      0.001173,
+      0.000242
+    ]
+  },
+  "othA/Finland/810/2025": {
+    "frequencies": [
+      0.000548,
+      0.002608,
+      0.000404
+    ]
+  },
+  "othA/Hong_Kong/1244/2025": {
+    "frequencies": [
+      0.00012,
+      0.004382,
+      0.002164
+    ]
+  },
+  "othA/Madagascar/02865/2025": {
+    "frequencies": [
+      0.00012,
+      0.004382,
+      0.002164
+    ]
+  },
+  "othA/New_Jersey/16263/2025": {
+    "frequencies": [
+      0.000139,
+      0.005106,
+      0.001931
+    ]
+  },
+  "othA/Romania_BB/599589/2025": {
+    "frequencies": [
+      6.9e-05,
+      0.00203,
+      0.003122
+    ]
+  },
+  "othA/Sao_Paulo/358404549-IAL/2025": {
+    "frequencies": [
+      0.000323,
+      0.005935,
+      0.000849
+    ]
+  },
+  "othA/Teresina/LEIAL5671/2025": {
+    "frequencies": [
+      0.000655,
+      0.001621,
+      0.000297
+    ]
+  },
+  "pivots": [
+    2025.0014,
+    2025.4973,
+    2026.0014
+  ],
+  "tnicA/Bangkok/P2138/2025": {
+    "frequencies": [
+      0.000139,
+      0.005106,
+      0.001931
+    ]
+  },
+  "tnicA/Nakhon_Phanom/P2427/2025": {
+    "frequencies": [
+      9.5e-05,
+      0.003281,
+      0.002547
+    ]
+  }
+}
